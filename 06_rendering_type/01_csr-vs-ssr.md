@@ -23,7 +23,7 @@ JavaScript frameworks like React, Vue.js, Angular, Svelte, Backbone.js, and Embe
 5. The browser re-renders and updates parts of the web page based on user interactions like button clicks and form submissions.
 
 
-<span style="color:red">In short:</span> In React, JavaScript dynamically generates all HTML inside a single root element
+***In short:*** In React, JavaScript dynamically generates all HTML inside a single root element
 
 # What is server-side rendering?
 
@@ -46,4 +46,4 @@ The server-side rendering process typically follows these steps:
 
 Next.js (SSR): JavaScript generates HTML on the server and delivers it to the browser.
 
-<span style="color:red">In short:</span> Next.js uses server-side rendering where JavaScript executes on the server to generate HTML for each request, improving performance and SEO.
+***In short:*** Next.js uses server-side rendering where JavaScript executes on the server to generate HTML for each request, improving performance and SEO.
