@@ -30,7 +30,7 @@ const Home = () => {
       <div>
         <h1>Home Page</h1>
         <p>Welcome to our website!</p><br></br>
-        <p>Run In Production</p><br></br>
+        <p>Run In Production Mode</p><br></br>
         <p>Command : npm run build and then npm start</p>
       </div>
     </>
